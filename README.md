@@ -1,4 +1,5 @@
 # 경희대학교 캡스톤디자인2
+2018102162 컴퓨터공학과 김다희
 
 ## 클라이언트 실행
 
@@ -13,9 +14,8 @@ $ npm start
 ## 서버 실행
 
 python3 설치가 필요합니다.
-파이썬 가상환경에서 실행해주세요.
 
 ```
-$ pip install
+$ server/venv/Scripts/activate.bat
 $ python app.py
 ```
